@@ -1,2 +1,1 @@
-# login-php
-A log in script that uses session to handle credentials.
+My PHP solutions to the Advent of Code 2023.
